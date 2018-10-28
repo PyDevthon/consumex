@@ -71,8 +71,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/consumex/module/static/module/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="449">
-              <caret line="353" column="0" lean-forward="false" selection-start-line="353" selection-start-column="0" selection-end-line="353" selection-end-column="37" />
+            <state relative-caret-position="260">
+              <caret line="344" column="12" lean-forward="true" selection-start-line="344" selection-start-column="12" selection-end-line="344" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -135,8 +135,8 @@
       <find>Fall</find>
       <find>images</find>
       <find>overl</find>
-      <find>overlay</find>
       <find>overla</find>
+      <find>overlay</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -314,6 +314,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\workspace\consumex\consumex\module\static\module\css" />
       <recent name="D:\Projects\workspace\consumex\consumex\module\static\module\images" />
       <recent name="D:\Projects\workspace\consumex\consumex\module\static" />
       <recent name="D:\Projects\workspace\consumex\consumex\module\templates" />
@@ -533,7 +534,14 @@
       <option name="project" value="LOCAL" />
       <updated>1540709617236</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="initial commit">
+      <created>1540709844406</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1540709844406</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -876,8 +884,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/consumex/module/static/module/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="353" column="0" lean-forward="false" selection-start-line="353" selection-start-column="0" selection-end-line="353" selection-end-column="37" />
+        <state relative-caret-position="260">
+          <caret line="344" column="12" lean-forward="true" selection-start-line="344" selection-start-column="12" selection-end-line="344" selection-end-column="12" />
           <folding />
         </state>
       </provider>
