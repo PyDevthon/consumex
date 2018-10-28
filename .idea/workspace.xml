@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34a74b40-eec9-47d3-97c1-6d54ea0bc465" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/consumex/consumex/settings.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/consumex/module/templates/about.html" afterPath="$PROJECT_DIR$/consumex/module/templates/about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/consumex/module/templates/contact.html" afterPath="$PROJECT_DIR$/consumex/module/templates/contact.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/consumex/module/templates/index.html" afterPath="$PROJECT_DIR$/consumex/module/templates/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/consumex/module/templates/portfolio.html" afterPath="$PROJECT_DIR$/consumex/module/templates/portfolio.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/consumex/module/templates/services.html" afterPath="$PROJECT_DIR$/consumex/module/templates/services.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,11 +25,9 @@
       <file leaf-file-name="portfolio.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/consumex/module/templates/portfolio.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="428">
-              <caret line="127" column="86" lean-forward="false" selection-start-line="127" selection-start-column="86" selection-end-line="127" selection-end-column="86" />
-              <folding>
-                <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="142">
+              <caret line="98" column="142" lean-forward="false" selection-start-line="98" selection-start-column="142" selection-end-line="98" selection-end-column="142" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -44,7 +46,7 @@
         <entry file="file://$PROJECT_DIR$/consumex/module/templates/about.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="234">
-              <caret line="97" column="75" lean-forward="false" selection-start-line="97" selection-start-column="75" selection-end-line="97" selection-end-column="75" />
+              <caret line="97" column="115" lean-forward="true" selection-start-line="97" selection-start-column="115" selection-end-line="97" selection-end-column="115" />
               <folding />
             </state>
           </provider>
@@ -54,7 +56,7 @@
         <entry file="file://$PROJECT_DIR$/consumex/module/templates/contact.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="239">
-              <caret line="97" column="75" lean-forward="false" selection-start-line="97" selection-start-column="75" selection-end-line="97" selection-end-column="75" />
+              <caret line="97" column="142" lean-forward="false" selection-start-line="97" selection-start-column="142" selection-end-line="97" selection-end-column="142" />
               <folding />
             </state>
           </provider>
@@ -64,7 +66,7 @@
         <entry file="file://$PROJECT_DIR$/consumex/module/templates/services.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="234">
-              <caret line="97" column="76" lean-forward="false" selection-start-line="97" selection-start-column="76" selection-end-line="97" selection-end-column="76" />
+              <caret line="97" column="142" lean-forward="false" selection-start-line="97" selection-start-column="142" selection-end-line="97" selection-end-column="142" />
               <folding />
             </state>
           </provider>
@@ -74,7 +76,7 @@
         <entry file="file://$PROJECT_DIR$/consumex/module/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="239">
-              <caret line="96" column="61" lean-forward="false" selection-start-line="96" selection-start-column="61" selection-end-line="96" selection-end-column="61" />
+              <caret line="96" column="122" lean-forward="false" selection-start-line="96" selection-start-column="100" selection-end-line="96" selection-end-column="128" />
               <folding />
             </state>
           </provider>
@@ -114,8 +116,8 @@
       <find>free</find>
       <find>img</find>
       <find>imgages</find>
-      <find>images</find>
       <find>Fall</find>
+      <find>images</find>
       <find>overlay</find>
       <find>overla</find>
       <find>overl</find>
@@ -427,7 +429,14 @@
       <option name="project" value="LOCAL" />
       <updated>1540709285758</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="initial commit">
+      <created>1540709383998</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1540709383998</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -553,9 +562,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -725,7 +732,7 @@
     <entry file="file://$PROJECT_DIR$/consumex/module/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="239">
-          <caret line="96" column="61" lean-forward="false" selection-start-line="96" selection-start-column="61" selection-end-line="96" selection-end-column="61" />
+          <caret line="96" column="122" lean-forward="false" selection-start-line="96" selection-start-column="100" selection-end-line="96" selection-end-column="128" />
           <folding />
         </state>
       </provider>
@@ -733,7 +740,7 @@
     <entry file="file://$PROJECT_DIR$/consumex/module/templates/services.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
-          <caret line="97" column="76" lean-forward="false" selection-start-line="97" selection-start-column="76" selection-end-line="97" selection-end-column="76" />
+          <caret line="97" column="142" lean-forward="false" selection-start-line="97" selection-start-column="142" selection-end-line="97" selection-end-column="142" />
           <folding />
         </state>
       </provider>
@@ -741,7 +748,7 @@
     <entry file="file://$PROJECT_DIR$/consumex/module/templates/contact.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="239">
-          <caret line="97" column="75" lean-forward="false" selection-start-line="97" selection-start-column="75" selection-end-line="97" selection-end-column="75" />
+          <caret line="97" column="142" lean-forward="false" selection-start-line="97" selection-start-column="142" selection-end-line="97" selection-end-column="142" />
           <folding />
         </state>
       </provider>
@@ -749,18 +756,16 @@
     <entry file="file://$PROJECT_DIR$/consumex/module/templates/about.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
-          <caret line="97" column="75" lean-forward="false" selection-start-line="97" selection-start-column="75" selection-end-line="97" selection-end-column="75" />
+          <caret line="97" column="115" lean-forward="true" selection-start-line="97" selection-start-column="115" selection-end-line="97" selection-end-column="115" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/consumex/module/templates/portfolio.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="428">
-          <caret line="127" column="86" lean-forward="false" selection-start-line="127" selection-start-column="86" selection-end-line="127" selection-end-column="86" />
-          <folding>
-            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="142">
+          <caret line="98" column="142" lean-forward="false" selection-start-line="98" selection-start-column="142" selection-end-line="98" selection-end-column="142" />
+          <folding />
         </state>
       </provider>
     </entry>
